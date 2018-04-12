@@ -1,2 +1,1 @@
-# vcanccc.github.com
-this is Vcanccc's github site
+my blog source code location.
